@@ -1,0 +1,5 @@
+source "C:/Users/serfm/esp-idf/components/app_update/Kconfig.projbuild"
+source "C:/Users/serfm/esp-idf/components/bootloader/Kconfig.projbuild"
+source "C:/Users/serfm/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "C:/Users/serfm/esp-idf/components/partition_table/Kconfig.projbuild"
+source "C:/Users/serfm/eclipse-workspace/rpmtoleds/main/Kconfig.projbuild"
